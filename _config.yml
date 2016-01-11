@@ -1,0 +1,28 @@
+name: Mayday
+favicon: null
+layout_spectrum: 0.9027958642691374
+typography_spectrum: 0.6159493427257985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.25534722674638033
+  lightness: 0.010093649383634329
+  saturation: 0.37377698509953916
+  rhythmicContrast: 0.7930802933406085
+purpose: []
