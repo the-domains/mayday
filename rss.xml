@@ -4,7 +4,7 @@
         <description><![CDATA[Branding & Design Agency]]></description>
         <link>https://thegrid.ai/mayday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 16:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 16:38:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mayday/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Let's Meet...]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mayday/lets-meet/index.html</link>
             <guid isPermaLink="false">071ad683-96ed-4107-96b8-66099c5e3b84</guid>
             <pubDate>Mon, 11 Jan 2016 16:37:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Works]]></title>
-            <description><![CDATA[<h1></h1>]]></description>
-            <link>https://thegrid.ai/mayday/our-works/index.html</link>
-            <guid isPermaLink="false">efb8a532-cd76-4f55-b3b3-7e641ba927e3</guid>
-            <pubDate>Mon, 11 Jan 2016 16:31:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
