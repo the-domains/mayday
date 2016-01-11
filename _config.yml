@@ -1,7 +1,7 @@
 name: Mayday
 favicon: null
-layout_spectrum: 0.9027958642691374
-typography_spectrum: 0.6159493427257985
+layout_spectrum: 0.99825
+typography_spectrum: 0.66069
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#1a1a1a'
+    - '#ffffff'
+    - '#4b4b4b'
+    - '#d7d7d7'
+    - '#818181'
   brandStrength: 0.25534722674638033
   lightness: 0.010093649383634329
   saturation: 0.37377698509953916
