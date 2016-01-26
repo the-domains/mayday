@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T15:01:54.546Z'
+datePublished: '2016-01-26T15:01:54.627Z'
 dateModified: '2016-01-26T15:01:51.456Z'
 title: EFES BEERBOX // Brand Identity
 author: []
