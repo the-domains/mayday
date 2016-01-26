@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T12:44:13.838Z'
+datePublished: '2016-01-26T12:44:13.854Z'
 dateModified: '2016-01-26T12:44:10.318Z'
 title: ALCHEMY PROJECT // Stationary Design
 author: []
