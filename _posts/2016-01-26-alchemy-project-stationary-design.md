@@ -6,26 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T12:41:52.631Z'
-dateModified: '2016-01-26T12:41:43.273Z'
+datePublished: '2016-01-26T12:44:13.838Z'
+dateModified: '2016-01-26T12:44:10.318Z'
 title: ALCHEMY PROJECT // Stationary Design
 author: []
+sourcePath: _posts/2016-01-26-alchemy-project-stationary-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-alchemy-project-stationary-design.md
-published: true
 url: alchemy-project-stationary-design/index.html
 _type: Article
 
 ---
 # ALCHEMY PROJECT // Stationary Design
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dee49c4-0598-4b31-8769-c2805fb0f5e2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9adcfe19-0b77-4fef-b855-31ca09018c2f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/580f370c-82fe-490d-8b6a-48d998c3a4bb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd7ce07-27b5-4105-93fc-6cddb471871f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96a94099-5ddc-4f39-a19e-43e40be08375.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49c6b7a4-8001-43cb-bbda-ee85c6775805.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d45b57bede23d231a2ea9694f00fd1480e2f1d97.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07985373a4fc8a3f3ca2f1758277fb7bb92098ed.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/310fb07b50ae28c24f51ec5229e7002f4a97e174.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d42adb623d5475d4b0e1a83b551a25852d5fc9e1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/48adee139b017d16b329ab204a8647e4a1d2284f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10383b8942bc6af3683c2719309a1914024b05d.jpg)
