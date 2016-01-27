@@ -4,8 +4,15 @@
         <description><![CDATA[MAYDAY // Branding & Brand Experience Agency]]></description>
         <link>https://thegrid.ai/mayday/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 16:23:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mayday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHAT WE DO]]></title>
+            <description><![CDATA[<article><h1>WHAT WE DO</h1><p>Services</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19656708dc5a9b26703db9f254e968886424041c.png"></article>]]></description>
+            <link>https://thegrid.ai/mayday/our-works/index.html</link>
+            <guid isPermaLink="false">125c9fe3-d414-43d0-b406-8ca01dfaa84e</guid>
+            <pubDate>Wed, 27 Jan 2016 16:23:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beauty and the Beast // TVC]]></title>
             <description><![CDATA[<article><h1>Beauty and the Beast // TVC</h1><p>This is "Beauty and the Beast // TVC" by maydayagency on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7e32b9aba8eb68d6f8d227969851219d180ac4a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mayday/alchemy-project-stationary-design/index.html</link>
             <guid isPermaLink="false">260a6696-afa4-4ad8-b5ce-285c1b19a3b1</guid>
             <pubDate>Tue, 26 Jan 2016 12:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ILLUSIONISTS 1903_UAE_TVC]]></title>
-            <description><![CDATA[<article><h1>ILLUSIONISTS 1903_UAE_TVC</h1><p>This is "ILLUSIONISTS 1903_UAE_TVC" by maydayagency on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d354d4bacf665b4b00ba1326c57d51fe3ce8ee1.jpg"></article>]]></description>
-            <link>https://vimeo.com/139107161</link>
-            <guid isPermaLink="false">9a9d1607-03e2-436b-812b-8ffccb8aa94c</guid>
-            <pubDate>Tue, 26 Jan 2016 12:33:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
