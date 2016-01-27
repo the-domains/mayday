@@ -1,6 +1,6 @@
 name: Mayday
 favicon: null
-layout_spectrum: 0.50261
+layout_spectrum: 0.37882
 typography_spectrum: 0.13571
 title: 'MAYDAY // Branding & Brand Experience Agency'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4b4b4b'
     - '#d7d7d7'
     - '#818181'
-  brandStrength: 0.75
-  lightness: 1
+  brandStrength: 0.8125
+  lightness: 0
   saturation: 0
   rhythmicContrast: 0
 purpose: []
