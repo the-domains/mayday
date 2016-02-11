@@ -4,11 +4,18 @@
         <description><![CDATA[MAYDAY // Branding & Brand Experience Agency]]></description>
         <link>http://mayday.agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 09:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 09:24:08 GMT</lastBuildDate>
         <atom:link href="http://mayday.agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[ALCHEMY PROJECT // Stationary Design]]></title>
+            <description><![CDATA[<article><h1>ALCHEMY PROJECT // Stationary Design</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eef0954eba34e0c06a836189975b5848d182b132.jpg"></article>]]></description>
+            <link>http://mayday.agency/alchemy-project-stationary-design/index.html</link>
+            <guid isPermaLink="false">260a6696-afa4-4ad8-b5ce-285c1b19a3b1</guid>
+            <pubDate>Thu, 11 Feb 2016 09:23:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WHAT WE DO]]></title>
-            <description><![CDATA[<article><h1>WHAT WE DO</h1><p>Services</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bf2b1b8e58b2890316d01e89307349feb0be5de.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>WHAT WE DO</h1><p>Services</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f203a32699938e8f00963eb86aad623fbb1e98ea.jpg"></article>]]></description>
             <link>http://mayday.agency/our-works/index.html</link>
             <guid isPermaLink="false">125c9fe3-d414-43d0-b406-8ca01dfaa84e</guid>
             <pubDate>Thu, 11 Feb 2016 09:16:31 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/154845179</link>
             <guid isPermaLink="false">f3f6215d-7d3c-4a75-9013-eb5320bc717c</guid>
             <pubDate>Wed, 10 Feb 2016 12:47:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SHREK_TVC]]></title>
-            <description><![CDATA[<article><h1>SHREK_TVC</h1><p>This is "SHREK_TVC" by maydayagency on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95973b8e693ecc85ce927edbc32007cf248adb3e.jpg"></article>]]></description>
-            <link>https://vimeo.com/153250657</link>
-            <guid isPermaLink="false">1aa06c43-37fc-441c-908b-b78676c58a6b</guid>
-            <pubDate>Wed, 27 Jan 2016 16:28:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
