@@ -1,20 +1,4 @@
-name: MAYDAY
-favicon: null
-layout_spectrum: 0.07222
 typography_spectrum: 0.13571
-title: 'MAYDAY // Branding & Brand Experience Agency'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-50690855-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1a1a1a'
@@ -26,4 +10,20 @@ color:
   lightness: 0.875
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.07222
+analytics:
+  google: UA-50690855-1
+  facebook: null
+  twitter: null
+name: MAYDAY
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: MAYDAY
 purpose: []
