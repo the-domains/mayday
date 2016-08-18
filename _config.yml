@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: WHAT WE DO
+    id: b6f0871b-0784-4183-ae7d-6a21902b4e40
+    type: content
 favicon: null
 title: MAYDAY
 description: Branding & Brand Experience Agency
